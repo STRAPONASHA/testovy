@@ -1,0 +1,44 @@
+[33mcommit 23f0c9b577e27e2868565d60e2c6d2ea2f8da92d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: STRAPONASHA <timurgismatulin04@gmail.com>
+Date:   Sun Sep 21 21:59:27 2025 +0500
+
+    Initial commit: Telegram e-commerce bot with admin panel
+
+.gitignore
+API_EXAMPLES.md
+CHECKLIST.md
+COMPLETE.md
+DATABASE_SCHEMA.md
+DEPLOYMENT.md
+DEVELOPMENT.md
+DONE.md
+ENHANCED_PRODUCT_CARDS.md
+FINAL.md
+FINAL_INSTRUCTIONS.md
+FINAL_ORDER_IMPROVEMENTS.md
+FIXED_CHAT_MESSAGES.md
+LAUNCH.md
+NAVIGATION_IMPROVEMENTS.md
+PROJECT_SUMMARY.md
+QUICK_START.md
+README.md
+SETUP.md
+SUCCESS.md
+TESTING.md
+USER_GUIDE.md
+VERIFICATION.md
+config.py
+database/__init__.py
+database/models.py
+database/repository.py
+handlers/__init__.py
+handlers/admin.py
+handlers/cart.py
+handlers/catalog.py
+handlers/order.py
+init_data.py
+main.py
+pytest.ini
+requirements.txt
+run.py
+tests/__init__.py
